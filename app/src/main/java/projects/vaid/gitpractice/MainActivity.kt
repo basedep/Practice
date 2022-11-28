@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView (R.layout.activity_main)
 
         println("This is my second commit")
+
+        i fucked up again
     }
 }
