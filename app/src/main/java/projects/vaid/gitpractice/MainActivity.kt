@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         println("This is my second commit")
         println("Change 2")
+        println("This line will be merged")
     }
 }
